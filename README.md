@@ -82,12 +82,7 @@ json id="policy1"
       "Resource": "arn:aws:s3:::mary-s3-12/*"
     }
   ]
-}<img width="1335" height="664" alt="website page 2" src="https://github.com/user-attachments/assets/10543321-5fec-4f23-afa9-15596962314d" />
-<img width="1335" height="657" alt="website page" src="https://github.com/user-attachments/assets/dce58fd0-5e5a-4129-bb3c-55d5e26711cc" />
-<img width="1335" height="654" alt="CLI Output" src="https://github.com/user-attachments/assets/da6efbf8-ed54-4cf1-8a05-43e708cfa83d" />
-<img width="1337" height="658" alt="S3 BUCKET CREATED" src="https://github.com/user-attachments/assets/7cef227d-c320-44e9-9e0d-2ecf8a9de3cf" />
-<img width="1338" height="657" alt="s3 bucket config" src="https://github.com/user-attachments/assets/cad46667-656a-4cc0-be00-1b8b71ac85a3" />
-
+}
 
 
 
@@ -119,3 +114,8 @@ AWS IAM and bucket policy configuration
 Static website hosting on AWS
 AWS CLI operations
 Cloud storage fundamentals
+ <img width="1335" height="664" alt="website page 2" src="https://github.com/user-attachments/assets/10543321-5fec-4f23-afa9-15596962314d" />
+<img width="1335" height="657" alt="website page" src="https://github.com/user-attachments/assets/dce58fd0-5e5a-4129-bb3c-55d5e26711cc" />
+<img width="1335" height="654" alt="CLI Output" src="https://github.com/user-attachments/assets/da6efbf8-ed54-4cf1-8a05-43e708cfa83d" />
+<img width="1337" height="658" alt="S3 BUCKET CREATED" src="https://github.com/user-attachments/assets/7cef227d-c320-44e9-9e0d-2ecf8a9de3cf" />
+<img width="1338" height="657" alt="s3 bucket config" src="https://github.com/user-attachments/assets/cad46667-656a-4cc0-be00-1b8b71ac85a3" />
