@@ -41,6 +41,8 @@ I successfully created the S3 bucket.
 
 aws s3 cp index.html s3://mary-s3-12/
 
+after using the CLI to upload the html, i went to the console and uploaded manually from my file
+
 I successfully uploaded the HTML file to the bucket.
 
 3. List Objects in Bucket
