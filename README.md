@@ -116,6 +116,7 @@ AWS IAM and bucket policy configuration
 Static website hosting on AWS
 AWS CLI operations
 Cloud storage fundamentals
+note: The bucket was deleted after this project, so the file is no longer accessible over the internet. this is to reduce cost on my AWS account
  <img width="1335" height="664" alt="website page 2" src="https://github.com/user-attachments/assets/10543321-5fec-4f23-afa9-15596962314d" />
 <img width="1335" height="657" alt="website page" src="https://github.com/user-attachments/assets/dce58fd0-5e5a-4129-bb3c-55d5e26711cc" />
 <img width="1335" height="654" alt="CLI Output" src="https://github.com/user-attachments/assets/da6efbf8-ed54-4cf1-8a05-43e708cfa83d" />
